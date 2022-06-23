@@ -9,5 +9,4 @@ THIS IS UNDER CONSTRUCTION!
 [fabric wiki tutorial](https://fabricmc.net/wiki/tutorial:setup)
 image::https://raw.githubusercontent.com/IntellectualSites/Assets/main/plugins/FastAsyncWorldEdit/FastAsyncWorldEdit.sv
 * link:https://discord.gg/intellectualsites[Discord]
-== test
-=== Download FastAsyncWorldEdit
+### Download FastAsyncWorldEdit
