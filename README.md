@@ -3,6 +3,7 @@ This repository is there to help you to setup your [[YMA] BlockParty plugin](htt
 
 # Why this github
 It's here to help you to set up every thing that surrounds the plugin. **This github doens't contain the plugin code it's only purpuse is to help you!**
+Do not forget that you have an in game help `/bp help [commands, permission, config]`
 
 # Wiki
 * **I have an error**
