@@ -6,7 +6,7 @@ It's here to help you to set up every thing that surrounds the plugin. **This gi
 Do not forget that you have an in game help `/bp help [commands, permission, config]`
 
 # Wiki
-* **I have an error**
+* [**I have an error**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * **Set up an arena**
 * **Music**
 * **Custom dance floor**
@@ -18,8 +18,8 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * **PlaceHolders**
 * **Scoreboard**
 * **Language**
-* **I want to suggest a feature**
-* **Other**
+* [**I want to suggest a feature**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
+* [**Other**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 
 # More Detail
 If you want to access or use the plugin code you must ask it to me on [discord](https://discord.com/invite/wKsFBZspCw) or [spigot](https://www.spigotmc.org/members/joschma.956334/). As alreay written on the spigot page:
