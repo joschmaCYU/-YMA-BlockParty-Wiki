@@ -8,7 +8,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 # Wiki
 * [**I have an error**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * [**Set up an arena**](https://github.com/Joschma/-YMA-BlockParty/wiki/Set-up-an-arena/)
-* **Music**
+* **Music/Song**
 * **Custom dance floor**
 * **Leaderboard**
 * **Config**
