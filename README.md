@@ -9,7 +9,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**I have an error**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * [**Set up an arena**](https://github.com/Joschma/-YMA-BlockParty/wiki/Set-up-an-arena/)
 * [**Music/Song**](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song) (add/remove, song:[Provider](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-provider)/[Setting](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-setting))
-* **Custom dance floor**
+* [**Custom dance floor**](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor)
 * **Leaderboard**
 * **Config**
 * **Permission**
