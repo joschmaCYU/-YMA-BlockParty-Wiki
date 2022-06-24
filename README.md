@@ -18,6 +18,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * **PlaceHolders**
 * **Scoreboard**
 * **Language**
+* **Sign**
 * [**I want to suggest a feature**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * [**Other**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 
