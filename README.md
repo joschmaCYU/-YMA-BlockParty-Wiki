@@ -5,10 +5,10 @@ This repository is there to help you to setup your [[YMA] BlockParty plugin](htt
 It's here to help you to set up every thing that surrounds the plugin. **This github doens't contain the plugin code it's only purpuse is to help you!**
 Do not forget that you have an in game help `/bp help [commands, permission, config]`
 
-# Wiki
+# [Wiki](https://github.com/Joschma/-YMA-BlockParty/wiki)
 * [**I have an error**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * [**Set up an arena**](https://github.com/Joschma/-YMA-BlockParty/wiki/Set-up-an-arena/)
-* **Music/Song** (add/remove, song:Provider/Setting)
+* *[*Music/Song**](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song) (add/remove, song:[Provider](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-provider)/[Setting](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-setting))
 * **Custom dance floor**
 * **Leaderboard**
 * **Config**
