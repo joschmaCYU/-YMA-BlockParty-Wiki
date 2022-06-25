@@ -1,3 +1,5 @@
+THIS IS UNDER CONSTRUCTION!
+
 # Block Party Spigot
 This repository is there to help you to setup your [[YMA] BlockParty plugin](https://www.spigotmc.org/resources/yma-block-party-with-music-1-13-1-19.98473/).
 
@@ -8,7 +10,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 # [Wiki](https://github.com/Joschma/-YMA-BlockParty/wiki)
 * [**I have an error**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * [**Set up an arena**](https://github.com/Joschma/-YMA-BlockParty/wiki/Set-up-an-arena/)
-* [**Music/Song**](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song) (add/remove, song:[Provider](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-provider)/[Setting](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-setting))
+* [**Music/Song**](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song) ([add](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#add-music)/[remove](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#remove-music), song:[Provider](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-provider)/[Setting](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-setting), [StopMusic](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#stop-music))
 * [**Custom dance floor**](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor)
 * **Leaderboard**
 * **Config**
@@ -25,15 +27,3 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 # More Detail
 If you want to access or use the plugin code you must ask it to me on [discord](https://discord.com/invite/wKsFBZspCw) or [spigot](https://www.spigotmc.org/members/joschma.956334/). As alreay written on the spigot page:
 > You can not sell or distribut this plugin without my clear written permission. You can modify this plugin only for your private use. This plugin is under my intelectual property.
-
-THIS IS UNDER CONSTRUCTION!
-
-# Section
-## Under section
-### Under under section
-`cool code`
-[Text with link](https://www.spigotmc.org/resources/yma-block-party-with-music-1-13-1-19.98473/)
-![alt text](https://i.ibb.co/2kQrTMZ/Wiki.png)
-* Point
-
-
