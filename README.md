@@ -14,7 +14,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**Custom dance floor**](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor) ([add](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor#add-custom-dance-floor)/[remove](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor#remove-custom-dance-floor))
 * [**Leaderboard**](https://github.com/Joschma/-YMA-BlockParty/wiki/Leaderboard)
 * **Config**
-* **Permission**
+* [**Permission**](https://github.com/Joschma/-YMA-BlockParty/wiki/Permission)
 * **Commands**
 * **Other supported plugins**
 * **PlaceHolders**
