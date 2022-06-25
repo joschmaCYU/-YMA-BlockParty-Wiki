@@ -17,10 +17,10 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**Permission**](https://github.com/Joschma/-YMA-BlockParty/wiki/Permission)
 * **Commands**
 * **Other supported plugins**
-* **PlaceHolders**
+* [**PlaceHolders**](https://github.com/Joschma/-YMA-BlockParty/wiki/PlaceHolders)
 * **Scoreboard**
 * **Language**
-* **Sign**
+* [**Sign**](https://github.com/Joschma/-YMA-BlockParty/wiki/Signs)
 * [**I want to suggest a feature**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * [**Other**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 
