@@ -1,5 +1,3 @@
-THIS IS UNDER CONSTRUCTION!
-
 # Block Party Spigot
 This repository is there to help you to setup your [[YMA] BlockParty plugin](https://www.spigotmc.org/resources/yma-block-party-with-music-1-13-1-19.98473/).
 
