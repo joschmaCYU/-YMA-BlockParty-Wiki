@@ -18,8 +18,8 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**Commands**](https://github.com/Joschma/-YMA-BlockParty/wiki/Command)
 * [**Other supported plugins**](https://github.com/Joschma/-YMA-BlockParty/wiki/Other-supported-plugins)
 * [**PlaceHolders**](https://github.com/Joschma/-YMA-BlockParty/wiki/PlaceHolders)
-* **Scoreboard**
-* **Language**
+* [**Scoreboard**](https://github.com/Joschma/-YMA-BlockParty/wiki/Scoreboard)
+* [**Language**](https://github.com/Joschma/-YMA-BlockParty/wiki/Language)
 * [**Sign**](https://github.com/Joschma/-YMA-BlockParty/wiki/Signs)
 * [**I want to suggest a feature**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
 * [**Other**](https://github.com/Joschma/-YMA-BlockParty/wiki/Contact)
