@@ -24,4 +24,4 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 
 # More Detail
 If you want to access or use the plugin code you must ask it to me on [discord](https://discord.com/invite/wKsFBZspCw) or [spigot](https://www.spigotmc.org/members/joschma.956334/). As alreay written on the spigot page:
-> You can not sell or distribut this plugin without my clear written permission. You can modify this plugin only for your private use. This plugin is under my intelectual property.
+> You can not sell or distribut this plugin without my clear written permission. You can modify this plugin only for your private use. This plugin is under my intellectual property.
