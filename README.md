@@ -10,6 +10,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**Set up an arena**](https://github.com/Joschma/-YMA-BlockParty/wiki/Set-up-an-arena/)
 * [**Music/Song**](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song) ([add](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#add-music)/[remove](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#remove-music), song:[Provider](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-provider)/[Setting](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#song-setting), [StopMusic](https://github.com/Joschma/-YMA-BlockParty/wiki/Music-Song#stop-music))
 * [**Custom dance floor**](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor) ([add](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor#add-custom-dance-floor)/[remove](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor#remove-custom-dance-floor))
+* [**Power up**](https://github.com/Joschma/-YMA-BlockParty/wiki/Power-up)
 * [**Leaderboard**](https://github.com/Joschma/-YMA-BlockParty/wiki/Leaderboard)
 * [**Config**](https://github.com/Joschma/-YMA-BlockParty/wiki/Config)
 * [**Permission**](https://github.com/Joschma/-YMA-BlockParty/wiki/Permission)
