@@ -13,7 +13,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**Power up**](https://github.com/Joschma/-YMA-BlockParty/wiki/Power-up)
 * [**Leaderboard**](https://github.com/Joschma/-YMA-BlockParty/wiki/Leaderboard)
 * [**Config**](https://github.com/Joschma/-YMA-BlockParty/wiki/Config)
-* [**Permission**](https://github.com/Joschma/-YMA-BlockParty/wiki/Permission)
+* [**Permission**](https://github.com/Joschma/-YMA-BlockParty/wiki/Permissions)
 * [**Commands**](https://github.com/Joschma/-YMA-BlockParty/wiki/Command)
 * [**Other supported plugins**](https://github.com/Joschma/-YMA-BlockParty/wiki/Other-supported-plugins)
 * [**PlaceHolders**](https://github.com/Joschma/-YMA-BlockParty/wiki/PlaceHolders)
