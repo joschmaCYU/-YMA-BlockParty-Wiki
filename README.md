@@ -14,7 +14,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**Leaderboard**](https://github.com/Joschma/-YMA-BlockParty/wiki/Leaderboard)
 * [**Config**](https://github.com/Joschma/-YMA-BlockParty/wiki/Config)
 * [**Permission**](https://github.com/Joschma/-YMA-BlockParty/wiki/Permissions)
-* [**Commands**](https://github.com/Joschma/-YMA-BlockParty/wiki/Command)
+* [**Commands**](https://github.com/Joschma/-YMA-BlockParty/wiki/Commands)
 * [**Other supported plugins**](https://github.com/Joschma/-YMA-BlockParty/wiki/Other-supported-plugins)
 * [**PlaceHolders**](https://github.com/Joschma/-YMA-BlockParty/wiki/PlaceHolders)
 * [**Scoreboard**](https://github.com/Joschma/-YMA-BlockParty/wiki/Scoreboard)
