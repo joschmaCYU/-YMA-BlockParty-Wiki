@@ -12,7 +12,7 @@ Do not forget that you have an in game help `/bp help [commands, permission, con
 * [**Custom dance floor**](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor) ([add](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor#add-custom-dance-floor)/[remove](https://github.com/Joschma/-YMA-BlockParty/wiki/Custom-dance-floor#remove-custom-dance-floor))
 * [**Power up**](https://github.com/Joschma/-YMA-BlockParty/wiki/Power-up)
 * [**Leaderboard**](https://github.com/Joschma/-YMA-BlockParty/wiki/Leaderboard)
-* [**Config**](https://github.com/Joschma/-YMA-BlockParty/wiki/Config)
+* [**Config**](https://github.com/Joschma/-YMA-BlockParty/wiki/Configs)
 * [**Permission**](https://github.com/Joschma/-YMA-BlockParty/wiki/Permissions)
 * [**Commands**](https://github.com/Joschma/-YMA-BlockParty/wiki/Commands)
 * [**Other supported plugins**](https://github.com/Joschma/-YMA-BlockParty/wiki/Other-supported-plugins)
